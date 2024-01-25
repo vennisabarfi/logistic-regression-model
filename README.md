@@ -26,12 +26,12 @@ This GitHub repository contains a simple implementation of logistic regression u
    - The code also includes an example of extending the model to multiple layers for experimentation.
   
 6. **Results**
-epoch: 10, loss = 0.2755
-epoch: 100, loss = 0.0951
-epoch: 200, loss = 0.0736
-epoch: 300, loss = 0.0640
-epoch: 400, loss = 0.0582
-epoch: 500, loss = 0.0542
+- epoch: 10, loss = 0.2755
+- epoch: 100, loss = 0.0951
+- epoch: 200, loss = 0.0736
+- epoch: 300, loss = 0.0640
+- epoch: 400, loss = 0.0582
+- epoch: 500, loss = 0.0542
 
 **accuracy = 0.9561**
 
